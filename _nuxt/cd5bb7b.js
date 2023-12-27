@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{637:function(e,n,t){"use strict";t.r(n);var c=t(0),o=t(83),r=Object(c.d)({name:"",setup:function(){return{mobile:Object(o.a)(window)}}}),l=t(22),component=Object(l.a)(r,(function(){var e=this._self._c;this._self._setupProxy;return e("div")}),[],!1,null,"047c9d94",null);n.default=component.exports}}]);
