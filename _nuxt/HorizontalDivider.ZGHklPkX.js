@@ -1,1 +1,0 @@
-import{d as e,ab as o,a2 as r}from"./swiper-vue.eSEHy2GP.js";import{_ as t}from"./entry.pl1Pbq0O.js";const a=e({props:{},data(){return{}}});function n(s,c,p,_,d,i){return r(),o("hr")}const l=t(a,[["render",n],["__scopeId","data-v-48a2e7c2"]]);export{l as H};
