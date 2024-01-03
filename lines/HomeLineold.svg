@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3300.635" height="8210.783" viewBox="0 0 3300.635 8210.783">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="7387" viewBox="0 0 1920 7387">
   <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-        stroke: #9f8c4e;
-        stroke-width: 1.5px;
-      }
-    </style>
+    <clipPath id="clip-LBM_-_HOMEPAGE_1">
+      <rect width="1920" height="7387"/>
+    </clipPath>
   </defs>
-  <path id="HomeLine" data-name="HomeLine" class="cls-1" d="M-12139.883-857.734s-1017.408,1123.579-1158.75,2411.758c-139.5,1271.432,1108.521,1680.88,1376.345,2628.476,3.443,12.184,6.8,24.754,9.98,37.421,244.687,974.38-1055.526,2383.487-2314.706,2906.456" transform="translate(14225.614 -596.552) rotate(-5)"/>
+  <g id="LBM_-_HOMEPAGE_1" data-name="LBM - HOMEPAGE – 1" clip-path="url(#clip-LBM_-_HOMEPAGE_1)">
+    <path id="Tracé_36" data-name="Tracé 36" d="M-12139.883-857.734s-1017.408,1123.579-1158.75,2411.758,1141.639,1691.517,1386.325,2665.9-1055.526,2383.487-2314.706,2906.456" transform="translate(13082.777 -1818.562) rotate(-7)" fill="none" stroke="#9f8c4e" stroke-width="1"/>
+  </g>
 </svg>

@@ -1,3 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="3091.266" height="7126.5" viewBox="0 0 3091.266 7126.5">
-  <path id="Tracé_36" data-name="Tracé 36" d="M-12139.883-857.734S-13197.08,703.2-13290.322,1657.535c-56.691,580.236,380.428,778.232,462.314,1282.9,52.895,326-619.733,1156.325-603.027,1491.486,42.617,855,48.066,942.7-152.414,1694.455" transform="translate(14662.567 4118.778) rotate(14)" fill="none" stroke="#9f8c4e" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="7387" viewBox="0 0 1920 7387">
+  <defs>
+    <clipPath id="clip-LBM_-_HOMEPAGE_2">
+      <rect width="1920" height="7387"/>
+    </clipPath>
+  </defs>
+  <g id="LBM_-_HOMEPAGE_2" data-name="LBM - HOMEPAGE – 2" clip-path="url(#clip-LBM_-_HOMEPAGE_2)">
+    <g id="Groupe_166" data-name="Groupe 166" transform="translate(70 4.183)">
+      <path id="Tracé_36" data-name="Tracé 36" d="M1512.655,4.183S1770.59,824.178,1780,1633.23C1769.931,2962.946,218.486,2793.565,123.486,4252.468c-56.715,870.963,569.989,2117.1,1771.038,2849.948" transform="translate(0 -4.183)" fill="none" stroke="#9f8c4e" stroke-width="1"/>
+      <text id="_" data-name="  " transform="matrix(-1, 0, 0, 1, 1980.522, 5771.817)" font-size="21" font-family="SegoeUI, Segoe UI" letter-spacing="0.3em"><tspan x="-8.902" y="0" xml:space="preserve">  </tspan></text>
+    </g>
+  </g>
 </svg>
