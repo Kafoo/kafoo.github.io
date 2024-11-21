@@ -1,2 +1,6 @@
+# START nuxt-robots (indexable)
 User-agent: *
 Disallow: 
+
+Sitemap: https://lesbonnesmanières.paris/sitemap_index.xml
+# END nuxt-robots
